@@ -1,8 +1,6 @@
 # TableauProjects
 # Data Visualization Dashboards
 
-This repository contains Tableau dashboards visualizing road accident statistics and COVID-19 data.
-
 ## Road Accidents Dashboard
 
 This dashboard provides an overview of road accident statistics for the year 2022 compared to 2019. It includes:
