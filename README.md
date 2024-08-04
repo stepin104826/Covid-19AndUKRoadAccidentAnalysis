@@ -1,5 +1,5 @@
-# TableauProjects
-# Data Visualization Dashboards
+# Data Visualization with Tableau
+<img src="ProjectLogo.png" alt="Your Logo" height="100" width="150" />  
 
 ## Road Accidents Dashboard
 
